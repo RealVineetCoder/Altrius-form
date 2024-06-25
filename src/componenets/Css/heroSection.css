@@ -1,0 +1,81 @@
+.hero-css{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 120px;
+}
+
+.hero-h1{
+    font-size: 40px;
+    padding-right: 200px
+
+}
+
+.email-css{
+    padding-top: 40px;
+    padding-bottom: 20px;
+
+
+}
+
+.email-input{
+    width: 600px;
+    height: 45px;
+    border-radius: 10px;
+    border: 2px solid #dad9d9be;
+    outline: none;
+    padding: 0 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+}
+
+.checkbox-css{
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    text-decoration: none;
+
+}
+
+.p-all{
+    display: flex;
+    align-items: flex-start;
+
+}
+.p-css{
+    display: flex;
+    gap: 4px;
+    padding-left: 20px;
+
+}
+
+.p1-css{
+    font-weight: 500;
+    color: #9b9b9b;
+
+}
+
+.p2-css{
+    font-weight: 500;
+    color: rgb(173, 101, 113)
+}
+
+.button-css{
+    width: 200px;
+    height: 55px;
+    border-radius: 50px;
+    /* border: 2px solid #dad9d9ba; */
+    outline: none;
+    padding: 0 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    background-color: #c2c2c2;
+    color: black;
+    margin-top: 50px;
+}
+

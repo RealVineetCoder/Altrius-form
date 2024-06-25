@@ -1,0 +1,15 @@
+.class-width{
+    width: 50%;
+    height: 100vh;
+    position: relative;
+    float: left;
+
+}
+
+.class-width2{
+    height: 100vh;
+    width: 50%;
+    position: relative;
+    float: right;
+
+}
